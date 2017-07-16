@@ -283,20 +283,13 @@ a {
     width: 65px;
     margin-top: 2%;
 }
+
     /*estilos para el footer*/
-.page-footer{
-    background-color:white;
-}
-.footer-copyright{
-    background-color: #f5f5f5;
-}
 .presentarFooter{
     display: inline;
     height: 70px;
 }
-.letraCop{
-    background-color:#f5f5f5!important;
-    }
+
 /*Animacion*/
 
     
