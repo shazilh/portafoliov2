@@ -222,6 +222,7 @@ a {
   }
   .botones {
     display: none;*/
+      width: 30%;
   }
   #particles-js {
     height: 700px;
@@ -283,13 +284,16 @@ a {
     width: 65px;
     margin-top: 2%;
 }
+ body {
+  background-color: #7d53ad;
+  background-image: url();
+    }
 
     /*estilos para el footer*/
 .presentarFooter{
     display: inline;
     height: 70px;
 }
-
 /*Animacion*/
 
     
